@@ -9,7 +9,7 @@ This project performs sentiment analysis on Amazon Fine Food Reviews using Natur
 4. [Usage](#usage)
 5. [Results](#results)
 6. [Technologies Used](#technologies-used)
-7. [License](#license)
+7. [Acknowledgments](#acknowledgments)
 
 ---
 
